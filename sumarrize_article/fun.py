@@ -3,7 +3,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
-os.environ['GOOGLE_API_KEY']="AQ.Ab8RN6JPFVJCDl-596Yha-krhSHlwnlyrLF4Ij28OVfQR5Pbzw"
+os.environ['GOOGLE_API_KEY']=""
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
