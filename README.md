@@ -1,4 +1,4 @@
-# LangChain Practice
+#  LangChain Practice
 
 A collection of hands-on mini-projects for learning and experimenting with the LangChain framework. Each folder in this repository is a self-contained example exploring a different LangChain concept, from agent tools to prompt-based content generation.
 
